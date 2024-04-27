@@ -12,7 +12,7 @@ export default createPahoMqttPlugin({
     useSSL: true,
     clientId: `MyID-${Math.random() * 9999}`,
     enableMainTopic: false,
-    username: 'alumnoIoT',
-    password: 'cursoIoT_24',
+    username: 'EMYD',
+    password: 'EMYD2024',
   },
 });
